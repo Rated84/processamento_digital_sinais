@@ -1,0 +1,7 @@
+# Ignore all files
+*
+!*.ipynb
+!*.csv
+!*.wav
+!.gitignore
+!README.md
